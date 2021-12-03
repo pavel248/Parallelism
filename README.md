@@ -1,2 +1,1 @@
-# Parallelism
 # Io-Bound
